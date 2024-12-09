@@ -10,7 +10,7 @@ import {PayPalScriptProvider} from '@paypal/react-paypal-js'
 import store from '../store.js'
 import HomeScreen from './Screens/HomeScreen.jsx';
 import ProductScreen from './Screens/ProductScreen.jsx';
-import CartScreen from './Screens/cartScreen.jsx';
+import CartScreen from './Screens/CartScreen.jsx'
 import LoginScreen from './Screens/LoginScreen.jsx';
 import RegisterScreen from './Screens/RegisterScreen.jsx';
 import ShippinScreen from './Screens/ShippinScreen.jsx';
