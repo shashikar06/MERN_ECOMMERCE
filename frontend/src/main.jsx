@@ -14,11 +14,11 @@ import CartScreen from './Screens/CartScreen.jsx'
 import LoginScreen from './Screens/LoginScreen.jsx';
 import RegisterScreen from './Screens/RegisterScreen.jsx';
 import ShippinScreen from './Screens/ShippinScreen.jsx';
-import PrivateRoute from './Components/privateRoute.jsx';
+import PrivateRoute from './Components/PrivateRoute.jsx';
 import PaymentScreen from './Screens/PaymentScreen.jsx';
 import PlaceOrderScreen from './Screens/PlaceOrderScreen.jsx';
 import OrderScreen from './Screens/OrderScreen.jsx';
-import ProfileScreen from './Screens/profileScreen.jsx';
+import ProfileScreen from './Screens/ProfileScreen.jsx';
 import OrderListScreen from './Screens/OrderListScreen.jsx';
 import AdminRoute from './Components/AdminRoute.jsx';
 import ProductListScreen from './Screens/ProductListScreen.jsx';
